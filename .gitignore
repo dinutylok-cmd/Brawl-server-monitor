@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.kivy/
+.last_vcs_control.json
